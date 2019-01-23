@@ -1,4 +1,3 @@
-# latihan01
 # LANGKAH LANGKAH AWAL DALAM MENGGUNAKAN GITHUB
 
 # Membuat akun pada layanan github
