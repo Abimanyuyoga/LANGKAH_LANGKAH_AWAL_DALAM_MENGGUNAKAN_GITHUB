@@ -1,16 +1,15 @@
 # latihan01
-LANGKAH LANGKAH AWAL DALAM MENGGUNAKAN GITHUB
+# LANGKAH LANGKAH AWAL DALAM MENGGUNAKAN GITHUB
 
-Membuat akun pada layanan github
+# Membuat akun pada layanan github
 untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan github, tidak masalah kalau nanti misalnya mau pindah ke layanan lain seperti gitlab seperti yang saya lakukan sekarang, karena saya tetap menggunakan keduanya.
 
 ![1111](https://user-images.githubusercontent.com/46512870/51582177-85b06580-1efd-11e9-8759-adbacbcfc414.png)
 
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 
-Membuat Repositori online
-
-![22](https://user-images.githubusercontent.com/46512870/51582328-243cc680-1efe-11e9-8081-3ea5c8a41b67.png)
+# Membuat Repositori online
+![7](https://user-images.githubusercontent.com/46512870/51588131-c87e3780-1f15-11e9-9de3-b91769e30266.png)
 
 ![7](https://user-images.githubusercontent.com/46512870/51588131-c87e3780-1f15-11e9-9de3-b91769e30266.png)
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
