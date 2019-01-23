@@ -18,15 +18,15 @@ Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori
 
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
-•	Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri  
+•	Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri 
   jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
 
 •	Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
 
 •	Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
 
-•	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di 
-  centang karena mempermudah praktek untuk mengelola git.
+•	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah 
+  dicentang karena mempermudah praktek untuk mengelola git.
 
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repository yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
@@ -58,11 +58,14 @@ git push -u origin master
 
 • git init
 
-untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
+  untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
 
 • git add “.” atau nama file
 
-untuk menambah file project yang mau di upload sebelum di commit, tanda titik setelah kata “add” pada perintah tersebut adalah keseluruhan file dan folder project tersebut, saat awal upload kalian bisa menggunakan perintah tersebut. Namun saat commit atau upload ke repository selanjutnya bisa menggunakan perintah add dengan “nama file” untuk memberikan status commit. Ini adalah contohnya apabila ingin menggunakan “git add” :
+  untuk menambah file project yang mau di upload sebelum di commit, tanda titik setelah kata “add” pada perintah tersebut adalah 
+  keseluruhan file dan folder project tersebut, saat awal upload kalian bisa menggunakan perintah tersebut. Namun saat commit 
+  atau upload ke repository selanjutnya bisa menggunakan perintah add dengan “nama file” untuk memberikan status commit. Ini
+  adalah contohnya apabila ingin menggunakan “git add” :
 
 
 // mengupload keseluruhan file pada repo (hanya digunakan saat upload pertama saja)
@@ -74,15 +77,19 @@ untuk menambah file project yang mau di upload sebelum di commit, tanda titik se
    
 • git commit -m “isi commit”
 
-untuk menambah keterangan/status perubahaan saat upload ke repo online, untuk memasukkan keterangan tersebut setelah “git commit -m” ditambah tanda petik lalu komentar(lihat di list perintah untuk contoh).
+  untuk menambah keterangan/status perubahaan saat upload ke repo online, untuk memasukkan keterangan tersebut setelah “git  
+  commit -m” ditambah tanda petik lalu komentar(lihat di list perintah untuk contoh).
 
 • git remote add origin “link repo online”
 
-untuk meng-setting remote origin dari repo online, repo online bisa dilihat pada link yang tersedia di bagian atas Project dengan format “.git”, diperlukan ini untuk mengakses ke repo tersebut sehingga kita bisa melakukan apapun di repo online tersebut.
+  untuk meng-setting remote origin dari repo online, repo online bisa dilihat pada link yang tersedia di bagian atas Project  
+  dengan format “.git”, diperlukan ini untuk mengakses ke repo tersebut sehingga kita bisa melakukan apapun di repo online 
+  tersebut.
 
 • git push origin “nama branch”
 
-Perintah untuk mengupload file yang ada pada repo lokal ke repo online yang diletakkan pada branch yang sudah tersedia di repo online.
+  Perintah untuk mengupload file yang ada pada repo lokal ke repo online yang diletakkan pada branch yang sudah tersedia di repo  
+  online.
 
 Setelah melakukan semua perintah silahkan cek di github, apakah file yg di upload sudah masuk atau tidak? jika iya maka anda berhasil mengelola git untuk tahap awal
 
