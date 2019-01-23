@@ -22,3 +22,4 @@ Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repositori yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
+![4](https://user-images.githubusercontent.com/46512870/51582738-05d7ca80-1f00-11e9-8a77-1b470da0f8c4.png)
