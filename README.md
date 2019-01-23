@@ -55,9 +55,11 @@ git push -u origin master
 # Keterangan perintah diatas seperti ini :
 
 • git init
+
 untuk meng-set folder yang digunakan tersebut sebagai repo local git. bisa di bilang ini instalasi git pertama kali
 
 • git add “.” atau nama file
+
 untuk menambah file project yang mau di upload sebelum di commit, tanda titik setelah kata “add” pada perintah tersebut adalah keseluruhan file dan folder project tersebut, saat awal upload kalian bisa menggunakan perintah tersebut. Namun saat commit atau upload ke repository selanjutnya bisa menggunakan perintah add dengan “nama file” untuk memberikan status commit. Ini adalah contohnya apabila ingin menggunakan “git add” :
 
 
@@ -71,12 +73,15 @@ untuk menambah file project yang mau di upload sebelum di commit, tanda titik se
    git add pages/index.html
    
 • git commit -m “isi commit”
+
 untuk menambah keterangan/status perubahaan saat upload ke repo online, untuk memasukkan keterangan tersebut setelah “git  commit -m” ditambah tanda petik lalu komentar(lihat di list perintah untuk contoh).
 
 • git remote add origin “link repo online”
+
 untuk meng-setting remote origin dari repo online, repo online bisa dilihat pada link yang tersedia di bagian atas Project dengan format “.git”, diperlukan ini untuk mengakses ke repo tersebut sehingga kita bisa melakukan apapun di repo online tersebut.
 
 • git push origin “nama branch”
+
 Perintah untuk mengupload file yang ada pada repo lokal ke repo online yang diletakkan pada branch yang sudah tersedia di repo online.
 
 Setelah melakukan semua perintah silahkan cek di github, apakah file yg di upload sudah masuk atau tidak? jika iya maka anda berhasil mengelola git untuk tahap awal
