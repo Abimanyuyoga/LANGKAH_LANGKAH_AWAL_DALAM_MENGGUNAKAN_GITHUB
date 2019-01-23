@@ -18,20 +18,22 @@ Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori
 
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
-•	Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
+•	Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri  
+  jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
 
 •	Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
 
 •	Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
 
-•	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di centang karena mempermudah praktek untuk mengelola git.
+•	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di 
+  centang karena mempermudah praktek untuk mengelola git.
 
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repository yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
 ![untitled](https://user-images.githubusercontent.com/46512870/51589749-85729300-1f1a-11e9-9477-3a782131e9e0.png)
 
 
-Mengupload folder (repository lokal)
+# Mengupload folder (repository lokal)
 
 Sebelum melakukan upload pastikan di PC atau laptop sudah tersedia git, untuk Windows bisa menggunakan cmder yang sempat saya tulis disini untuk memudahkan proses penggunaan git, sedangkan untuk pengguna linux bisa menginstall dengan menggunakan perintah “sudo apt-get install git” jika menggunakan OSX install dengan brew, jika sudah file siap di upload ke repository online.
 
@@ -44,7 +46,7 @@ git add .
 
 git commit -m "first commit" 
 
-git remote add origin https://github.com/AbimanyuYoga/Latihan1.git
+git remote add origin https://github.com/AbimanyuYoga/latihan1.git
 
 git push -u origin master
- 
+
