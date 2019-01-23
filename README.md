@@ -88,3 +88,5 @@ Setelah melakukan semua perintah silahkan cek di github, apakah file yg di uploa
 
 # Bentuk kode yang sudah dimasukan ke Git Bash
 
+![git 1](https://user-images.githubusercontent.com/46512870/51591754-74c51b80-1f20-11e9-9d05-09b90d6d988d.png)
+
