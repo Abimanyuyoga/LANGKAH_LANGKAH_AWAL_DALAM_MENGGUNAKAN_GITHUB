@@ -8,13 +8,13 @@ untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat b
 
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 
-# Membuat Repositori online
+# Membuat Repository online
 ![99](https://user-images.githubusercontent.com/46512870/51588545-24958b80-1f17-11e9-9451-415f398805de.png)
 
 
-![333](https://user-images.githubusercontent.com/46512870/51588743-ac7b9580-1f17-11e9-97fa-93600e0e22cb.png)
 
-Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
+
+Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repository.
 
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
@@ -26,11 +26,11 @@ Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
 •	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di centang karena mempermudah praktek untuk mengelola git.
 
-Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repositori yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
+Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repository yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
 ![4](https://user-images.githubusercontent.com/46512870/51582738-05d7ca80-1f00-11e9-8a77-1b470da0f8c4.png)
 
-Mengupload folder(repositori lokal)
+Mengupload folder (repository lokal)
 
 Sebelum melakukan upload pastikan di PC atau laptop sudah tersedia git, untuk Windows bisa menggunakan cmder yang sempat saya tulis disini untuk memudahkan proses penggunaan git, sedangkan untuk pengguna linux bisa menginstall dengan menggunakan perintah “sudo apt-get install git” jika menggunakan OSX install dengan brew, jika sudah file siap di upload ke repository online.
 
