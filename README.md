@@ -63,8 +63,10 @@ untuk menambah file project yang mau di upload sebelum di commit, tanda titik se
 
 // mengupload keseluruhan file pada repo (hanya digunakan saat upload pertama saja)
    git add .
+   
 // mengupload file sesuai dengan nama file
    git add index.html
+   
 // mengupload file pada dalam folder
    git add pages/index.html
    
