@@ -86,5 +86,5 @@ Perintah untuk mengupload file yang ada pada repo lokal ke repo online yang dile
 
 Setelah melakukan semua perintah silahkan cek di github, apakah file yg di upload sudah masuk atau tidak? jika iya maka anda berhasil mengelola git untuk tahap awal
 
-# Bentuk kode yang sudah dimasukan ke GitBash
+# Bentuk kode yang sudah dimasukan ke Git Bash
 
