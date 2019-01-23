@@ -90,3 +90,4 @@ Setelah melakukan semua perintah silahkan cek di github, apakah file yg di uploa
 
 ![git 1](https://user-images.githubusercontent.com/46512870/51591754-74c51b80-1f20-11e9-9d05-09b90d6d988d.png)
 
+![git 2](https://user-images.githubusercontent.com/46512870/51591880-cc638700-1f20-11e9-9f49-4c35725e8908.png)
