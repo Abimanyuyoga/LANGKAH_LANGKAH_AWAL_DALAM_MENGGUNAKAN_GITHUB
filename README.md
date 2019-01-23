@@ -42,11 +42,13 @@ jika sudah memiliki proyek yang ingin diletakkan di repository online, buka saja
 
 git init 
 
-git add .
+git add README.md
 
 git commit -m "first commit" 
 
 git remote add origin https://github.com/AbimanyuYoga/latihan1.git
 
 git push -u origin master
+
+# Setelah Mengupload tugas hasilnya akan jadi seperti di bawah ini 
 
