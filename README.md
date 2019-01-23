@@ -12,7 +12,6 @@ Membuat Repositori online
 
 ![22](https://user-images.githubusercontent.com/46512870/51582328-243cc680-1efe-11e9-8081-3ea5c8a41b67.png)
 
-![33](https://user-images.githubusercontent.com/46512870/51582449-a927e000-1efe-11e9-894f-d5290aa5dadd.png)
 
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
 
