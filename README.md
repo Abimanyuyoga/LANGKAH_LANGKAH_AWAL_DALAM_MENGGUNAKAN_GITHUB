@@ -28,7 +28,8 @@ Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
 
 Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”, maka pada halaman selanjutnya akan menampilkan repository yang sudah dibuat, dan tahap selanjutnya adalah upload project ke repository online.
 
-![4](https://user-images.githubusercontent.com/46512870/51582738-05d7ca80-1f00-11e9-8a77-1b470da0f8c4.png)
+![untitled](https://user-images.githubusercontent.com/46512870/51589749-85729300-1f1a-11e9-9477-3a782131e9e0.png)
+
 
 Mengupload folder (repository lokal)
 
@@ -43,7 +44,7 @@ git add .
 
 git commit -m "first commit" 
 
-git remote add origin https://github.com/AbimanyuYoga/Latihan01.git
+git remote add origin https://github.com/AbimanyuYoga/Latihan1.git
 
 git push -u origin master
  
