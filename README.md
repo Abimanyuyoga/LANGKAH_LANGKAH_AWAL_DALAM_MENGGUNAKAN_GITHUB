@@ -14,7 +14,9 @@ Membuat Repositori online
 ![33](https://user-images.githubusercontent.com/46512870/51582449-a927e000-1efe-11e9-894f-d5290aa5dadd.png)
 
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repositori.
+
 Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
+
 •	Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
 •	Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
 •	Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
@@ -24,3 +26,8 @@ Setelah di isi sesuai dengan keinginan, klik saja tombol “create repository”
 
 ![4](https://user-images.githubusercontent.com/46512870/51582738-05d7ca80-1f00-11e9-8a77-1b470da0f8c4.png)
 
+Mengupload folder(repositori lokal)
+Sebelum melakukan upload pastikan di PC atau laptop sudah tersedia git, untuk Windows bisa menggunakan cmder yang sempat saya tulis disini untuk memudahkan proses penggunaan git, sedangkan untuk pengguna linux bisa menginstall dengan menggunakan perintah “sudo apt-get install git” jika menggunakan OSX install dengan brew, jika sudah file siap di upload ke repository online.
+
+
+jika sudah memiliki proyek yang ingin diletakkan di repository online, buka saja folder project tersebut dengan perintah command line, atau jika belum terbiasa di command line (nanti belajar command line) buka saja folder tersebut menggunakan file exploler dan klik kanan “open terminal/cmder here”. Ada beberapa perintah dasar yang akan digunakan, perintah ini sudah tersedia kok saat membuat repo tadi (lihat gambar atas) 
