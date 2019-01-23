@@ -12,7 +12,7 @@ Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke ha
 ![99](https://user-images.githubusercontent.com/46512870/51588545-24958b80-1f17-11e9-9451-415f398805de.png)
 
 
-
+![zz](https://user-images.githubusercontent.com/46512870/51589496-c7e7a000-1f19-11e9-9bb6-b68ad3ac1572.png)
 
 Lalu kalian akan diarahkan ke halaman pembuatan repository, pembuatan repositori ini tergantung dari project kalian yang mau kalian upload, jadi saya harapkan kalian sudah punya proyek yang ingin di upload ke repository.
 
@@ -43,7 +43,7 @@ git add .
 
 git commit -m "first commit" 
 
-git remote add origin https://github.com/AbimanyuYoga/Latihan1.git
+git remote add origin https://github.com/AbimanyuYoga/Latihan01.git
 
 git push -u origin master
  
