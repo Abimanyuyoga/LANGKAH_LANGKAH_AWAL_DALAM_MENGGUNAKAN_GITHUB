@@ -9,6 +9,7 @@ untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat b
 Setelah terbuat akun-nya, login dengan akun baru (kalau langsung diarahkan ke halaman utama), setelah itu pada pojok kanan atas terdapat tombol “+”, klik button tersebut dan pilih “new repository”.
 
 # Membuat Repositori online
+![99](https://user-images.githubusercontent.com/46512870/51588545-24958b80-1f17-11e9-9451-415f398805de.png)
 
 
 ![7](https://user-images.githubusercontent.com/46512870/51588131-c87e3780-1f15-11e9-9de3-b91769e30266.png)
